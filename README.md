@@ -3,6 +3,8 @@ This repo contains "about us" info about Hello Security LLC
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+# About Us
+
 Welcome to Hello Security LLC, your premier remote cybersecurity consultancy based in Sheboygan, Wisconsin. As a BBB accredited and award-winning international agency, we specialize in vCISO services and comprehensive cybersecurity solutions.
 
 Our team is composed of the world's leading security engineers, cloud infrastructure technicians, and CISO industry professionals. At Hello Security LLC, we understand that cybersecurity is an ever-changing landscape. Hence, we are committed to navigating this complex field to deliver top-tier, adaptive solutions that provide the most effective path forward for your organization.
@@ -34,5 +36,7 @@ Your security is our mission. Contact us today and take the first step towards f
 "Say Hello, to Hello Security".
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# Extra Notation
 
 @HelloSecurityLLC as a github repository, was initially created to host a few test website templates / edits / etc. Essentially it is being used as one of many debugging stations. Ie in videogame development, a debugging level is oft added. This level oft contains all of the game's mechanics from all levels in one level so as to easily debug etc. Much like this repo, it has been created as a means of quick access on the part of debuggers, interested clients and the Hello Security Team. With this in mind, this repository may remain without much actvity for extended periods, and may not contain the full Hello Security LLC project catolog. This should also preface that the languages shown on this repo should not reflect all of the languages used or fluently incorporated in our project catolog.
